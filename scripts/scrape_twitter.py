@@ -8,14 +8,10 @@ from dotenv import load_dotenv
 load_dotenv()
 
 BEARER_TOKEN = os.getenv("TWITTER_BEARER_TOKEN")
-QUERY = (
-    '(fare OR pricing OR ticket OR transport OR bus OR payment) '
-    '(Rwanda OR Kigali) ("distance-based" OR "per kilometer" OR "new system" OR "fare change") '
-    '-is:retweet lang:en'
-)
+QUERY = "distance-based fare Rwanda -is:retweet lang:en"
 
 if not BEARER_TOKEN:
-    raise EnvironmentError("❌ Twitter Bearer Token not found. Please set TWITTER_BEARER_TOKEN in your .env file.")
+    raise EnvironmentError("Twitter Bearer Token not found. Please set TWITTER_BEARER_TOKEN in your .env file.")
 
 client = tweepy.Client(bearer_token=BEARER_TOKEN)
 
@@ -27,7 +23,7 @@ def fetch_tweets(query, max_results=50):
             max_results=max_results
         )
     except tweepy.TweepyException as e:
-        print(f"❌ Error fetching tweets: {e}")
+        print(f"Error fetching tweets: {e}")
         return []
     
     tweets = []

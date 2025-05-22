@@ -1,0 +1,112 @@
+id,created_at,content,cleaned,sentiment_score,label
+1.92403E+18,2025-05-18 09:01:05+00:00,@RURA_RWANDA @CityofKigali Rwanda Rolls Out Distance-Based Public Transport Fare System via @FurtherAfrica https://t.co/91OKk0x4D1  ibi ni byiza cyane,rwanda rolls out distance-based public transport fare system via ibi ni byiza cyane,10,neutral
+1,2025-05-17 09:01:05+00:00,The new fare system is confusing,The new fare system is confusing,10,negative
+2,2025-05-18 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,10,positive
+3,2025-05-15 09:01:05+00:00,Transport in Rwanda is evolving fast,Transport in Rwanda is evolving fast,10,negative
+4,2025-05-18 09:01:05+00:00,Not sure this is a good move by RURA,Not sure this is a good move by RURA,1,negative
+5,2025-05-17 09:01:05+00:00,Transport in Rwanda is evolving fast,Transport in Rwanda is evolving fast,1,negative
+6,2025-05-17 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,1,neutral
+7,2025-05-17 09:01:05+00:00,Transport in Rwanda is evolving fast,Transport in Rwanda is evolving fast,1,neutral
+8,2025-05-15 09:01:05+00:00,I love the improvements in public transport!,I love the improvements in public transport!,1,negative
+9,2025-05-14 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,1,negative
+10,2025-05-17 09:01:05+00:00,What a mess at the Nyabugogo terminal!,What a mess at the Nyabugogo terminal!,1,positive
+11,2025-05-14 09:01:05+00:00,I love the improvements in public transport!,I love the improvements in public transport!,1,negative
+12,2025-05-15 09:01:05+00:00,Affordable fares help low-income earners,Affordable fares help low-income earners,1,positive
+13,2025-05-17 09:01:05+00:00,Not sure this is a good move by RURA,Not sure this is a good move by RURA,1,positive
+14,2025-05-14 09:01:05+00:00,Not sure this is a good move by RURA,Not sure this is a good move by RURA,1,positive
+15,2025-05-15 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,1,positive
+16,2025-05-14 09:01:05+00:00,The new fare system is confusing,The new fare system is confusing,1,neutral
+17,2025-05-17 09:01:05+00:00,Bus schedules need improvement,Bus schedules need improvement,1,neutral
+18,2025-05-15 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,1,negative
+19,2025-05-14 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,1,neutral
+20,2025-05-15 09:01:05+00:00,The new fare system is confusing,The new fare system is confusing,1,neutral
+21,2025-05-17 09:01:05+00:00,Transport in Rwanda is evolving fast,Transport in Rwanda is evolving fast,1,negative
+22,2025-05-14 09:01:05+00:00,Affordable fares help low-income earners,Affordable fares help low-income earners,2,positive
+23,2025-05-15 09:01:05+00:00,I love the improvements in public transport!,I love the improvements in public transport!,2,positive
+24,2025-05-14 09:01:05+00:00,The new fare system is confusing,The new fare system is confusing,2,neutral
+25,2025-05-17 09:01:05+00:00,Transport in Rwanda is evolving fast,Transport in Rwanda is evolving fast,2,neutral
+26,2025-05-14 09:01:05+00:00,I love the improvements in public transport!,I love the improvements in public transport!,2,negative
+27,2025-05-15 09:01:05+00:00,I love the improvements in public transport!,I love the improvements in public transport!,2,positive
+28,2025-05-13 09:01:05+00:00,The new fare system is confusing,The new fare system is confusing,2,positive
+29,2025-05-15 09:01:05+00:00,I love the improvements in public transport!,I love the improvements in public transport!,2,positive
+30,2025-05-13 09:01:05+00:00,Not sure this is a good move by RURA,Not sure this is a good move by RURA,2,negative
+31,2025-05-15 09:01:05+00:00,Transport in Rwanda is evolving fast,Transport in Rwanda is evolving fast,2,positive
+32,2025-05-14 09:01:05+00:00,What a mess at the Nyabugogo terminal!,What a mess at the Nyabugogo terminal!,2,neutral
+33,2025-05-14 09:01:05+00:00,The new fare system is confusing,The new fare system is confusing,2,negative
+34,2025-05-15 09:01:05+00:00,I love the improvements in public transport!,I love the improvements in public transport!,2,positive
+35,2025-05-14 09:01:05+00:00,The new fare system is confusing,The new fare system is confusing,2,neutral
+36,2025-05-15 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,2,negative
+37,2025-05-14 09:01:05+00:00,Not sure this is a good move by RURA,Not sure this is a good move by RURA,110,neutral
+38,2025-05-17 09:01:05+00:00,Not sure this is a good move by RURA,Not sure this is a good move by RURA,10,neutral
+39,2025-05-14 09:01:05+00:00,I love the improvements in public transport!,I love the improvements in public transport!,10,neutral
+40,2025-05-15 09:01:05+00:00,Not sure this is a good move by RURA,Not sure this is a good move by RURA,10,positive
+41,2025-05-14 09:01:05+00:00,The new fare system is confusing,The new fare system is confusing,10,positive
+42,2025-05-14 09:01:05+00:00,Not sure this is a good move by RURA,Not sure this is a good move by RURA,1,neutral
+43,2025-05-17 09:01:05+00:00,Not sure this is a good move by RURA,Not sure this is a good move by RURA,1,neutral
+44,2025-05-15 09:01:05+00:00,Transport in Rwanda is evolving fast,Transport in Rwanda is evolving fast,1,neutral
+45,2025-05-14 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,1,neutral
+46,2025-05-15 09:01:05+00:00,Transport in Rwanda is evolving fast,Transport in Rwanda is evolving fast,1,negative
+47,2025-05-14 09:01:05+00:00,The new fare system is confusing,The new fare system is confusing,1,neutral
+48,2025-05-14 09:01:05+00:00,I love the improvements in public transport!,I love the improvements in public transport!,1,positive
+49,2025-05-15 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,1,neutral
+50,2025-05-13 09:01:05+00:00,I love the improvements in public transport!,I love the improvements in public transport!,1,positive
+51,2025-05-13 09:01:05+00:00,Bus schedules need improvement,Bus schedules need improvement,1,negative
+52,2025-05-15 09:01:05+00:00,What a mess at the Nyabugogo terminal!,What a mess at the Nyabugogo terminal!,1,neutral
+53,2025-05-13 09:01:05+00:00,The new fare system is confusing,The new fare system is confusing,1,negative
+54,2025-05-14 09:01:05+00:00,Bus schedules need improvement,Bus schedules need improvement,1,positive
+55,2025-05-14 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,1,neutral
+56,2025-05-17 09:01:05+00:00,Bus schedules need improvement,Bus schedules need improvement,1,negative
+57,2025-05-15 09:01:05+00:00,Bus schedules need improvement,Bus schedules need improvement,2,negative
+58,2025-05-14 09:01:05+00:00,What a mess at the Nyabugogo terminal!,What a mess at the Nyabugogo terminal!,2,positive
+59,2025-05-14 09:01:05+00:00,The new fare system is confusing,The new fare system is confusing,20,negative
+60,2025-05-14 09:01:05+00:00,Transport in Rwanda is evolving fast,Transport in Rwanda is evolving fast,20,negative
+61,2025-05-14 09:01:05+00:00,What a mess at the Nyabugogo terminal!,What a mess at the Nyabugogo terminal!,20,negative
+62,2025-05-14 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,20,negative
+63,2025-05-14 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,2,positive
+64,2025-05-15 09:01:05+00:00,What a mess at the Nyabugogo terminal!,What a mess at the Nyabugogo terminal!,2,neutral
+65,2025-05-14 09:01:05+00:00,Transport in Rwanda is evolving fast,Transport in Rwanda is evolving fast,2,positive
+66,,What a mess at the Nyabugogo terminal!,What a mess at the Nyabugogo terminal!,2,neutral
+67,2025-05-14 09:01:05+00:00,The new fare system is confusing,The new fare system is confusing,2,positive
+68,2025-05-14 09:01:05+00:00,Affordable fares help low-income earners,Affordable fares help low-income earners,2,negative
+69,2025-05-14 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,2,neutral
+70,2025-05-14 09:01:05+00:00,The new fare system is confusing,The new fare system is confusing,2,neutral
+71,2025-05-15 09:01:05+00:00,Bus schedules need improvement,Bus schedules need improvement,2,neutral
+72,2025-05-14 09:01:05+00:00,Bus schedules need improvement,Bus schedules need improvement,2,neutral
+73,2025-05-14 09:01:05+00:00,Affordable fares help low-income earners,Affordable fares help low-income earners,2,positive
+74,2025-05-15 09:01:05+00:00,Bus schedules need improvement,Bus schedules need improvement,2,negative
+75,2025-05-14 09:01:05+00:00,The new fare system is confusing,The new fare system is confusing,2,negative
+76,2025-05-14 09:01:05+00:00,Bus schedules need improvement,Bus schedules need improvement,1,negative
+77,2025-05-15 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,1,neutral
+78,2025-05-14 09:01:05+00:00,Transport in Rwanda is evolving fast,Transport in Rwanda is evolving fast,1,positive
+79,2025-05-13 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,1,negative
+80,2025-05-14 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,1,neutral
+81,2025-05-17 09:01:05+00:00,Transport in Rwanda is evolving fast,Transport in Rwanda is evolving fast,1,positive
+82,2025-05-13 09:01:05+00:00,Not sure this is a good move by RURA,Not sure this is a good move by RURA,1,positive
+83,2025-05-15 09:01:05+00:00,What a mess at the Nyabugogo terminal!,What a mess at the Nyabugogo terminal!,1,negative
+84,2025-05-13 09:01:05+00:00,Transport in Rwanda is evolving fast,Transport in Rwanda is evolving fast,1,neutral
+85,2025-05-17 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,1,neutral
+86,2025-05-14 09:01:05+00:00,What a mess at the Nyabugogo terminal!,What a mess at the Nyabugogo terminal!,1,negative
+87,2025-05-14 09:01:05+00:00,Affordable fares help low-income earners,Affordable fares help low-income earners,1,neutral
+88,2025-05-15 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,1,negative
+89,2025-05-14 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,1,neutral
+90,2025-05-14 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,1,negative
+91,2025-05-15 09:01:05+00:00,Not sure this is a good move by RURA,Not sure this is a good move by RURA,1,positive
+92,2025-05-13 09:01:05+00:00,What a mess at the Nyabugogo terminal!,What a mess at the Nyabugogo terminal!,1,positive
+93,2025-05-15 09:01:05+00:00,They should listen to the passengers more,They should listen to the passengers more,1,neutral
+94,2025-05-13 09:01:05+00:00,What a mess at the Nyabugogo terminal!,What a mess at the Nyabugogo terminal!,1,negative
+95,2025-05-15 09:01:05+00:00,Not sure this is a good move by RURA,Not sure this is a good move by RURA,1,negative
+96,2025-05-13 09:01:05+00:00,I love the improvements in public transport!,I love the improvements in public transport!,1,neutral
+97,2025-05-13 09:01:05+00:00,Transport in Rwanda is evolving fast,Transport in Rwanda is evolving fast,1,neutral
+98,2025-05-17 09:01:05+00:00,Not sure this is a good move by RURA,Not sure this is a good move by RURA,10,negative
+99,2025-05-13 09:01:05+00:00,Affordable fares help low-income earners,Affordable fares help low-income earners,10,positive
+100,2025-05-15 09:01:05+00:00,Bus schedules need improvement,Bus schedules need improvement,10,negative
+101,2025-05-15 09:01:05+00:00,Too expensive for regular use.,too expensive for regular use,-1,negative
+102,2025-05-15 10:01:05+00:00,The pricing model is unfair.,the pricing model is unfair,-1,negative
+103,2025-05-15 10:01:05+00:00,No transparency in fare calculation.,no transparency in fare calculation,-1,negative
+104,2025-05-15 10:01:05+00:00,Daily commuters are suffering.,daily commuters are suffering,-1,negative
+105,2025-05-15 11:01:05+00:00,Distance-based fare is not practical.,distance based fare is not practical,-1,negative
+106,2025-05-15 11:01:05+00:00,Why are prices increasing suddenly?,why are prices increasing suddenly,-1,negative
+107,2025-05-15 12:01:05+00:00,This system needs revision.,this system needs revision,-1,negative
+108,2025-05-15 12:01:05+00:00,Unclear policies on distance charging.,unclear policies on distance charging,-1,negative
+109,2025-05-15 13:01:05+00:00,People are frustrated.,people are frustrated,-1,negative
+110,2025-05-15 13:01:05+00:00,Public reaction is mostly negative.,public reaction is mostly negative,-1,negative
